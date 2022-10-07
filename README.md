@@ -53,7 +53,7 @@ The states of California, New York, Texas, Illinois, and Florida have the most j
 
 ![Top Industries](./images/industries.png)
 
-Unsurprisingly jobs directly in the financial services industry are the most common, Software development, IT, Information/Internet, and Technology make up numbers 4, 6, 12, and 13 respectively.
+Unsurprisingly jobs directly in the financial services industry are the most common, but tech is common as well. Software development, IT, Information/Internet, and Technology make up numbers 4, 6, 12, and 13 respectively.
 
 ### How can I best prepare myself for getting a job, what skills are in demand beyond an education in Finance?
 
